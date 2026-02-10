@@ -11,4 +11,4 @@ app.use(express.static("public"))
 
 
 
-module.export = app;
+module.exports = app;
